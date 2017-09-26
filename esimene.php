@@ -20,6 +20,7 @@
 	if ( $hourNow >= 16 ) {
 		$partOfDay = "vaba aeg";
 	}
+	 
 	 // vaatame, kaua on koolipäeva lõpuni aega jäänud
 	 $timeNow = strtotime(date("d.m.Y H:i:s")); 
 	 
