@@ -61,7 +61,7 @@
    <meta charset="utf-8">
    <title>Piret Puidak veebiprogrammeerimine</title>
 </head>
-<body style="background-color:powderblue;">
+<body style="background-color:bisque;">
    <h1> 
    <?php 
        echo $myName ." " .$myFamilyName; 
